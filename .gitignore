@@ -44,3 +44,7 @@ composer.phar
 /lib/yuilib/*/*/*-coverage.js
 atlassian-ide-plugin.xml
 /node_modules/
+
+# local plugins - https://docs.moodle.org/dev/Local_plugins
+# The following rule excludes all local plugins folders
+/local/*/
