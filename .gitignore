@@ -48,7 +48,3 @@ atlassian-ide-plugin.xml
 # local plugins - https://docs.moodle.org/dev/Local_plugins
 # The following rule excludes all local plugins folders
 /local/*/
-
-# Plugins ignored because they are managed as sub-repos
-# Certificate Module - https://github.com/mdjnelson/moodle-mod_customcert
-/mod/certificate/
