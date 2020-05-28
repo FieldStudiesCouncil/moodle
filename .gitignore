@@ -47,4 +47,4 @@ atlassian-ide-plugin.xml
 
 # local plugins - https://docs.moodle.org/dev/Local_plugins
 # The following rule excludes all local plugins folders
-/local/*/
+/local/codechecker/
