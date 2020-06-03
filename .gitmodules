@@ -4,3 +4,6 @@
 [submodule "local/discoursesso"]
 	path = local/discoursesso
 	url = https://github.com/saylordotorg/moodle-local_discoursesso.git
+[submodule "mod/zoom"]
+	path = mod/zoom
+	url = https://github.com/ucla/moodle-mod_zoom.git
