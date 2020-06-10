@@ -7,6 +7,3 @@
 [submodule "mod/zoom"]
 	path = mod/zoom
 	url = https://github.com/ucla/moodle-mod_zoom.git
-[submodule "moodle/mod"]
-	path = moodle/mod
-	url = https://github.com/h5p/h5p-moodle-plugin.git
