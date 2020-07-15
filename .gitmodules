@@ -13,6 +13,3 @@
 [submodule "auth/wdmwpmoodle"]
 	path = auth/wdmwpmoodle
 	url = git@github.com:FieldStudiesCouncil/moodle_auth_wdmwpmoodle.git
-[submodule "mod/mathjax"]
-	path = mod/mathjax
-	url = https://github.com/mathjax/MathJax-src.git

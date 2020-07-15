@@ -1,5 +1,5 @@
 {
-  "name": "Moodle",
+  "name": "moodle",
   "private": true,
   "description": "Moodle",
   "devDependencies": {
@@ -40,5 +40,15 @@
   },
   "engines": {
     "node": ">=14.0.0 <15"
-  }
+  },
+  "version": "1.0.0",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "npx": "^10.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
