@@ -1,0 +1,13 @@
+
+*** These modified files were found in JOE when it aborted on Wed Jul 15 16:53:25 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/401482.cloudwaysapps.com/sdxtjvffjw/public_html/.git/MERGE_MSG
+/home/401482.cloudwaysapps.com/sdxtjvffjw/public_html/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
