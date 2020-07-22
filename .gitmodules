@@ -13,6 +13,6 @@
 [submodule "auth/wdmwpmoodle"]
 	path = auth/wdmwpmoodle
 	url = git@github.com:FieldStudiesCouncil/moodle_auth_wdmwpmoodle.git
-[submodule "local/moodle-local_boostnavigation"]
-	path = local/moodle-local_boostnavigation
+[submodule "local/boostnavigation"]
+	path = local/boostnavigation
 	url = https://github.com/moodleuulm/moodle-local_boostnavigation.git
