@@ -19,3 +19,6 @@
 [submodule "local/boostnavigation"]
 	path = local/boostnavigation
 	url = https://github.com/moodleuulm/moodle-local_boostnavigation.git
+[submodule "mod/dialogue"]
+	path = mod/dialogue
+	url = https://github.com/troywilliams/moodle-mod_dialogue.git
