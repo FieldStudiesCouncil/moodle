@@ -1,0 +1,31 @@
+
+*** These modified files were found in JOE when it aborted on Wed Aug  5 23:05:26 2020
+*** JOE was aborted because the terminal closed
+
+*** File '/home/401482.cloudwaysapps.com/sdxtjvffjw/public_html/.git/MERGE_MSG'
+Merge branch 'MOODLE_39_STABLE' of https://github.com/moodle/moodle into MOODLE_39_STABLE
+
+git remote add upstream https://github.com/moodle/moodle.git Merge branch
+'MOODLE_39_STABLE' of https://github.com/moodle/moodle into MOODLE_39_STABLE  
+
+
+
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+git commit -am "MErge branch 'MOODLE_39_STABLE' of https://github.com/moodle
+ into MOODLE_39_STABLE"
+
+
+*** File '(Unnamed)'
+/home/401482.cloudwaysapps.com/sdxtjvffjw/public_html/.git/MERGE_MSG
+/home/401482.cloudwaysapps.com/sdxtjvffjw/public_html/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
