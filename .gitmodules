@@ -1,21 +1,21 @@
+[submodule "local/edwiserbridge"]
+	path = local/edwiserbridge
+	url = https://github.com/WisdmLabs/edwiser-bridge.git
+[submodule "auth/wdmwpmoodle"]
+	path = auth/wdmwpmoodle
+	url = https://github.com/WisdmLabs/edwiser-bridge.git
 [submodule "blocks/messageteacher"]
 	path = blocks/messageteacher
 	url = https://github.com/marxjohnson/moodle-block_messageteacher.git
-[submodule "mod/customcert"]
-	path = mod/customcert
-	url = https://github.com/mdjnelson/moodle-mod_customcert.git
-[submodule "mod/zoom"]
-	path = mod/zoom
-	url = https://github.com/ucla/moodle-mod_zoom.git
-[submodule "mod/hvp"]
-	path = mod/hvp
-	url = https://github.com/h5p/h5p-moodle-plugin.git
-[submodule "local/edwiserbridge"]
-	path = local/edwiserbridge
-	url = git@github.com:FieldStudiesCouncil/moodleEdwiserBridge.git
-[submodule "auth/wdmwpmoodle"] 
-  	path = auth/wdmwpmoodle
-  	url = https://github.com/WisdmLabs/edwiser-bridge.git
 [submodule "local/boostnavigation"]
 	path = local/boostnavigation
 	url = https://github.com/moodleuulm/moodle-local_boostnavigation.git
+[submodule "mod/customcert"]
+	path = mod/customcert
+	url = https://github.com/mdjnelson/moodle-mod_customcert.git
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+[submodule "mod/zoom"]
+	path = mod/zoom
+	url = https://github.com/ucla/moodle-mod_zoom.git
