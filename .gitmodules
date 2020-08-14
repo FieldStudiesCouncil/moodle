@@ -16,3 +16,6 @@
 [submodule "auth/wdmwpmoodle"]
 	path = auth/wdmwpmoodle
 	url = https://github.com/WisdmLabs/edwiser-bridge.git
+[submodule "mod/moowoodle"]
+	path = mod/moowoodle
+	url = https://github.com/dualcube/moowoodle.git
