@@ -16,3 +16,6 @@
 [submodule "auth/wdmwpmoodle"]
 	path = auth/wdmwpmoodle
 	url = https://github.com/WisdmLabs/edwiser-bridge.git
+[submodule "blocks/messageteacher"]
+	path = blocks/messageteacher
+	url = https://github.com/marxjohnson/moodle-block_messageteacher.git
