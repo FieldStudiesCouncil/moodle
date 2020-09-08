@@ -4,9 +4,6 @@
 [submodule "mod/zoom"]
 	path = mod/zoom
 	url = https://github.com/ucla/moodle-mod_zoom.git
-[submodule "mod/hvp"]
-	path = mod/hvp
-	url = https://github.com/h5p/h5p-moodle-plugin.git
 [submodule "local/boostnavigation"]
 	path = local/boostnavigation
 	url = https://github.com/moodleuulm/moodle-local_boostnavigation.git
@@ -19,3 +16,6 @@
 [submodule "blocks/messageteacher"]
 	path = blocks/messageteacher
 	url = https://github.com/marxjohnson/moodle-block_messageteacher.git
+[submodule "mod/dialogue"]
+	path = mod/dialogue
+	url = https://github.com/troywilliams/moodle-mod_dialogue.git
