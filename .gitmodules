@@ -19,3 +19,6 @@
 [submodule "auth/wdmwpmoodle"]
 	path= auth/wdmwpmoodle
 	url= https://github.com/WisdmLabs/edwiser-bridge.git
+[submodule "mod/msteams"]
+	path = mod/msteams
+	url = https://github.com/OfficeDev/msteams-app-lms-meetings.git
