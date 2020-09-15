@@ -22,3 +22,6 @@
 [submodule "mod/msteams"]
 	path = mod/msteams
 	url = https://github.com/OfficeDev/msteams-app-lms-meetings.git
+[submodule "mod/report_completion"]
+	path = mod/report_completion
+	url = https://github.com/Twoscope/moodle-report_completionoverview.git
