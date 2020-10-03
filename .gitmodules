@@ -13,9 +13,6 @@
 [submodule "mod/dialogue"]
 	path = mod/dialogue
 	url = https://github.com/troywilliams/moodle-mod_dialogue.git
-[submodule "auth/wdmwpmoodle"]
-	path= auth/wdmwpmoodle
-	url= https://github.com/WisdmLabs/edwiser-bridge.git
 [submodule "mod/report_completion"]
 	path = mod/report_completion
 	url = https://github.com/Twoscope/moodle-report_completionoverview.git
