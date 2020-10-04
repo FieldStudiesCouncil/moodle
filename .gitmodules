@@ -10,9 +10,6 @@
 [submodule "blocks/messageteacher"]
 	path = blocks/messageteacher
 	url = https://github.com/marxjohnson/moodle-block_messageteacher.git
-[submodule "mod/dialogue"]
-	path = mod/dialogue
-	url = https://github.com/troywilliams/moodle-mod_dialogue.git
 [submodule "mod/report_completion"]
 	path = mod/report_completion
 	url = https://github.com/Twoscope/moodle-report_completionoverview.git
