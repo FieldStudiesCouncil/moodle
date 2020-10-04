@@ -10,3 +10,6 @@
 [submodule "local/edwiserbridge"]
 	path = local/edwiserbridge
 	url = git@github.com:FieldStudiesCouncil/moodleEdwiserBridge.git
+[submodule "auth/wdmwpmoodle"]
+	path = auth/wdmwpmoodle
+	url = git@github.com:FieldStudiesCouncil/moodle_auth_wdmwpmoodle.git
