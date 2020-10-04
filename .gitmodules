@@ -6,7 +6,7 @@
 	url = https://github.com/moodleuulm/moodle-local_boostnavigation.git
 [submodule "local/edwiserbridge"]
 	path = local/edwiserbridge
-	url = https://github.com/WisdmLabs/edwiser-bridge.git
+	url = git@github.com:FieldStudiesCouncil/moodleEdwiserBridge.git
 [submodule "mod/report_completion"]
 	path = mod/report_completion
 	url = https://github.com/Twoscope/moodle-report_completionoverview.git
