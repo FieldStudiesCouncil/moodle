@@ -1,0 +1,12 @@
+[submodule "local/boostnavigation"]
+	path = local/boostnavigation
+	url = https://github.com/moodleuulm/moodle-local_boostnavigation.git
+[submodule "local/edwiserbridge"]
+	path = local/edwiserbridge
+	url = git@github.com:FieldStudiesCouncil/moodleEdwiserBridge.git
+[submodule "auth/wdmwpmoodle"]
+	path = auth/wdmwpmoodle
+	url = git@github.com:FieldStudiesCouncil/moodle_auth_wdmwpmoodle.git
+[submodule "report/completionoverview"]
+	path = report/completionoverview
+	url = https://github.com/Twoscope/moodle-report_completionoverview.git
