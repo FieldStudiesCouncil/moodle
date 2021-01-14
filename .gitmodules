@@ -10,6 +10,3 @@
 [submodule "report/completionoverview"]
 	path = report/completionoverview
 	url = https://github.com/Twoscope/moodle-report_completionoverview.git
-[submodule "opcache"]
-	path = opcache
-	url = https://github.com/amnuts/opcache-gui.git
